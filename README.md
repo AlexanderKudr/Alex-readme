@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Sometimes i code...</h3>
-![102926-support](https://user-images.githubusercontent.com/103133406/189713251-893a51a3-061b-4984-93da-de9ae0a66ba5.gif)
+
+
+
+![102926-support](https://user-images.githubusercontent.com/103133406/189713317-c3b50d2f-5c48-48b9-b3f7-e28e5b6eafe5.gif)
 
 
 
