@@ -3,7 +3,7 @@
 
 
 
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/103133406/189713317-c3b50d2f-5c48-48b9-b3f7-e28e5b6eafe5.gif"/>
+<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/103133406/189713317-c3b50d2f-5c48-48b9-b3f7-e28e5b6eafe5.gif"/>
 <br>
 
 
