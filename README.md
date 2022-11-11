@@ -30,5 +30,4 @@
 
 
 
-
-<img align="right" src="https://www.codewars.com/users/Alex_wars/badges/large"/>
+<img align="right" src="https://www.codewars.com/users/Alex_wars/badges/small"/>
