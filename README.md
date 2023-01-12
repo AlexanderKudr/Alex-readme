@@ -12,9 +12,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexanderkudr&show_icons=true&theme=dark&locale=en&layout=compact" alt="alexanderkudr" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexanderkudr&show_icons=true&theme=dark&locale=en" alt="alexanderkudr" />
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alexanderkudr&theme=dark" alt="alexanderkudr" />
 
@@ -30,4 +28,4 @@
 
 
 
-<img align="right" src="https://www.codewars.com/users/Alex_wars/badges/small"/>
+<img align="left" src="https://www.codewars.com/users/Alex_wars/badges/small"/>
