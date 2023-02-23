@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Sometimes i code...</h3>
-<img align="right"  src="https://user-images.githubusercontent.com/103133406/189723058-4408126d-73b7-4b91-8a8f-38daece02141.gif"/>
+
 
 
 
